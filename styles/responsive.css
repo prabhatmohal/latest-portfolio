@@ -1,0 +1,90 @@
+@media (min-width:0) and (max-width:567px){
+    header {
+        height: 100dvh;
+        position: relative;
+    }
+    .header-section h1 {
+        font-size: 44px;
+    }
+    .navbar .btn.btn-primary {
+        background: transparent;
+        border: 1px solid #000;
+        color: #ff9800;
+        padding: 9px 9px;
+        font-size: 16px;
+    }
+    button:focus:not(:focus-visible) {
+        outline: 0;
+        box-shadow: unset;
+    }
+    .btn-close {
+        background: #ff9800 !important;
+        position: absolute;
+        right: 22px;
+        top: 7px;
+        opacity: 1;
+        line-height: 0;
+    }
+    video {
+        width: 100%;
+        height: 100dvh;
+        object-fit: cover;
+        object-position: revert;
+    }
+    .header-section p {
+      
+        padding: 0 10px;
+    }
+    .header-section {
+        position: absolute;
+        top: 35%;
+        left: 0;
+        right: 0;
+        text-align: center;
+        color: white;
+    }
+
+    ul#pills-tab {
+        justify-content: start !important;
+    }
+    h2.heading {
+        font-size: 36px;
+        margin-bottom: 47px;
+    }
+    section.about_section {
+        padding: 24px 0;
+        background: white;
+    }
+    .Aboutus_image img {
+        width: 100%;
+        height: 100%;
+    }
+    .Aboutus_image {
+        position: relative;
+        text-align: center;
+    }
+    h2.text-white.text-right {
+        text-align: left;
+        margin: 14px 0 0;
+    }
+    h2.headings {
+       
+        margin-top: 53px;
+    }
+    .contact-us h2 {
+        font-size: 3rem;
+        z-index: 9;
+        color: white;
+        font-weight: 100;
+        cursor: pointer;
+    }
+    .contact-us {
+        min-height: 180px;
+    
+    }
+    .experience.project {
+        
+        left: 0;
+        background: #202020 !important;
+    }
+}
