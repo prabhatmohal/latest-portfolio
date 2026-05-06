@@ -121,7 +121,7 @@ export default function Home() {
                   Senior <b>Full-Stack Developer & <br /> UI/UX</b> Designer
                 </h2>
                 <p data-aos='fade-up' data-aos-duration='1000' data-aos-anchor-placement='top-bottom' data-aos-delay='800'>
-                  <b>I build what I design.</b> With 8 years of expertise as a Senior Developer + UI/UX Designer, I bridge the gap between high-fidelity aesthetics and high-performance code. I don't just create &apos;pretty&apos; websites; I engineer scalable, &apos;Zillow-speed&apos; applications using Next.js, React, and Supabase.
+                  <b>I build what I design.</b> With 8 years of expertise as a Senior Developer + UI/UX Designer, I bridge the gap between high-fidelity aesthetics and high-performance code. I don&apos;t just create &apos;pretty&apos; websites; I engineer scalable, &apos;Zillow-speed&apos; applications using Next.js, React, and Supabase.
                 </p>
                 <p data-aos='fade-up' data-aos-duration='1000' data-aos-anchor-placement='top-bottom' data-aos-delay='1000'>
                   From the first pixel in Figma to the final deployment on Vercel, I ensure your vision is never lost in translation. Whether you need a high-conversion SaaS platform or a complex digital product, I turn your ideas into a seamless reality. Let&apos;s create something extraordinary together!
