@@ -6,7 +6,8 @@ import styles from '../styles/Home.module.css'
 import Image from 'next/image'
 import Script from 'next/script'
 import AOS from 'aos';
-import 'aos/dist/aos.css';
+// import 'aos/dist/aos.css';
+import 'aos/dist/aos'
 
 // import $ from "jquery";
 const inter = Inter({ subsets: ['latin'] })
